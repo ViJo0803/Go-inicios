@@ -1,7 +1,8 @@
 package main
 
 import (
-	"paque/mensajes"
+	"CURSO-GO/07-modularizacion/mensajes"
+	//	"paque/mensajes"
 )
 
 func main() {
