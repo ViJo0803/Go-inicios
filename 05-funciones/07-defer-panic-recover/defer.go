@@ -31,5 +31,3 @@ func main() {
 		fmt.Println(contenidoArchivo)
 	}
 }
-
-//excelente
